@@ -8,6 +8,7 @@ This logs a person's avatar once they join the lobby
 The format of the Json text in the Avatars.txt file.
 
 All of the below mentioned Json variables are strings
+
 {
   avatarName,
   avatarID,
