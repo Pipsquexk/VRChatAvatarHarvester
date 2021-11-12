@@ -19,5 +19,5 @@ All of the below mentioned Json variables are strings
 ## Usage
 
 1. Go into a lobby
-2. Check the Avatars.txt file
+2. Check the Avatars.txt file in VRChat's game path
 3. Once content with the quantity, add a "}" at the end of the file and save it
